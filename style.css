@@ -114,6 +114,7 @@ hr{
 /*  ---------- MAiN -------------*/ 
 
 .main{
+	box-shadow: 6px 6px 8px 8px rgba(0, 0, 0, 0.2);
 	margin-top: 0;
 	display: block;
 	width: 60%;
@@ -146,7 +147,7 @@ hr{
 
 
 .main_experience_title{
-	margin-top: 5em;
+	margin-top: 4.5em;
 	font-size: 1.6em;
 }
 
